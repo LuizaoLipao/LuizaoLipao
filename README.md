@@ -1,4 +1,4 @@
-#  Olá, eu sou o Luiz Felipe
+#  Olá, eu sou Luiz Felipe Rocha Ripardo
 
 💻 Desenvolvedor em formação | 📚 ADS 5° semestre - SENAC Blumenau  
 🎮 Técnico em Programação e Desenvolvimento de Jogos Digitais
