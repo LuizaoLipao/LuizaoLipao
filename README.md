@@ -13,9 +13,17 @@ Busco oportunidades para aplicar e expandir meus conhecimentos, contribuindo par
 
 ---
 
+## 📊 Experiências Proficionais
+
+- Câmara Municipal de Blumenau<br>
+Estagiário da Câmara<br>
+Atuo na recepção com atendimento ao público e suporte na Câmara de vereadores
+
+---
+
 ## ⚙️ Tecnologias e Ferramentas
 
-- 💻 C#, Java
+ 💻 C#, Java
 - 🌐 HTML, CSS, JavaScript, Tailwind 
 - 🗄️ Banco de Dados MySql, Oracle
 - 📊 Pacote Office
